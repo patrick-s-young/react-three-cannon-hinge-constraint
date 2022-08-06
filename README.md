@@ -29,7 +29,7 @@ useEffect(() => {
 The slider was enabled by [leva](https://github.com/pmndrs/leva), a hook-based GUI library, and [zustand](https://www.npmjs.com/package/zustand), a state management solution. Both are brought to you by [Poimandres](https://pmnd.rs/).
 
 ## View In Sandbox
-
+[codesandbox.io/s/rgccxz](https://codesandbox.io/s/rgccxz)
 
 ## Running Locally
 
@@ -37,7 +37,7 @@ Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
 git clone https://github.com/patrick-s-young/react-three-cannon-hinge-constraint.git # or clone your own fork
-cd use-spring-cannon-hook-example
+cd react-three-cannon-hinge-constraint
 npm install
 npm start
 ```
